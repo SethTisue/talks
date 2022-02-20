@@ -16,7 +16,8 @@ second version
 ## Compiler Plugins 101 (2018)
 
 * slides: https://docs.google.com/presentation/d/1KtJMd27yGWmr7E2yxKC_ipMeaP_vr1-6wVJ-QcqS_Vc/edit?usp=sharing
-* video: https://www.youtube.com/watch?v=h5NZjuxS5Qo
+* short video (32 minutes): https://www.youtube.com/watch?v=h5NZjuxS5Qo
+* longer video (91 minutes): https://www.youtube.com/watch?v=Dt_AIFNQuWc
 * documentation page: https://docs.scala-lang.org/overviews/plugins/index.html
 
 ## (other talks)
