@@ -9,6 +9,11 @@ thanks to Reactive Matsuri for the invitation to deliver the first
 version of this talk, and likewise to Scale by the Bay for the
 second version
 
+## Tools for Taming Tangled Code (2018)
+
+* video: https://www.youtube.com/watch?v=0nk5yphpSYQ
+* slides: https://docs.google.com/presentation/d/1xgInhuw_BBJGz3UDOUktNcWPehM2UN57c9FjvzlmbRk
+
 ## You Are a Scala Contributor (2018)
 
 * slides: https://github.com/SethTisue/talks/blob/main/you-are-a-scala-contributor.pdf
