@@ -11,8 +11,8 @@ second version
 
 ## Tools for Taming Tangled Code (2018)
 
-* video: https://www.youtube.com/watch?v=0nk5yphpSYQ
 * slides: https://docs.google.com/presentation/d/1xgInhuw_BBJGz3UDOUktNcWPehM2UN57c9FjvzlmbRk
+* video (52 minutes): https://www.youtube.com/watch?v=0nk5yphpSYQ
 
 ## You Are a Scala Contributor (2018)
 
