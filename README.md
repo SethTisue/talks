@@ -25,6 +25,12 @@ second version
 * longer video (91 minutes): https://www.youtube.com/watch?v=Dt_AIFNQuWc
 * documentation page: https://docs.scala-lang.org/overviews/plugins/index.html
 
+## Lenses: Fields as Values (2012/3)
+
+* sample code: https://github.com/SethTisue/lens-examples
+* slides: https://docs.google.com/presentation/d/1zW1Gm2M_x_cn9pGp6LQDwHDXQ4WSa4JTBQe1ADBtKjw/edit?usp=sharing
+* video (45 minutes): http://www.parleys.com/play/51c387cae4b0ed8770356869
+
 ## (other talks)
 
 If you're looking for the slides and/or video for some talk of mine and can't find them, please write me at seth at tisue dot net and we'll sort it out.
