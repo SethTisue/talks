@@ -2,7 +2,7 @@
 
 * slides: https://github.com/SethTisue/talks/blob/main/fortify.pdf
 
-delivered at EPFL in Lausanne in March 2024
+45 minute talk, delivered at EPFL in Lausanne in March 2024
 
 ## Making the Transition to Scala 3 (2021)
 
